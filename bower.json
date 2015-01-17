@@ -1,0 +1,22 @@
+{
+  "name": "scss-lib",
+  "version": "0.1.0",
+  "homepage": "https://github.com/butterandfly/scss-lib",
+  "authors": [
+    "butterandfly <zero.hero.lin@gmail.com>"
+  ],
+  "description": "A scss mixin libary.",
+  "main": "base.scss",
+  "keywords": [
+    "scss"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
